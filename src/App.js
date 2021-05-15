@@ -7,7 +7,7 @@ function App() {
 			id: 'e1',
 			title: 'New PC Part',
 			amount: 299.95,
-			date: new Date(2021, 4, 5),
+			date: new Date(2020, 6, 5),
 		},
 		{
 			id: 'e2',
@@ -52,6 +52,11 @@ function App() {
 				title={expenses[2].title}
 				amount={expenses[2].amount}
 				date={expenses[2].date}
+			/>
+			<ExpenseItem
+				title={expenses[3].title}
+				amount={expenses[3].amount}
+				date={expenses[3].date}
 			/>
 		</div>
 	);

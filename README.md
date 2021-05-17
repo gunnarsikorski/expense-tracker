@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Expense Tracker - Placeholder README for now...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
